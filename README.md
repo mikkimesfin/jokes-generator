@@ -9,3 +9,6 @@ actions commit mutations. they call mutations to change the state.
 
 # Technologies used:
 Vue
+
+
+![screen shot 2017-10-06 at 2 32 43 pm](https://user-images.githubusercontent.com/28164171/31297773-95b9708a-aaa4-11e7-90c9-cda6696140ec.png)
