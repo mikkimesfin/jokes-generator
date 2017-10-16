@@ -9,3 +9,6 @@ actions commit mutations. they call mutations to change the state.
 
 # Technologies used:
 Vue
+
+# To Run
+NPM run dev
